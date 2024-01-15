@@ -1,0 +1,31 @@
+/* Smaller Device Responsive code */
+@media screen and (max-width: 600px) {
+  .nav-logo-title img {
+    width: 30.724px;
+    height: 33.516px;
+  }
+  .nav-title {
+    /* font-size: 2.2rem; */
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+  }
+  .nav-title .travel-color {
+    color: #ff5400;
+    font-size: 1.5rem;
+    font-weight: 800;
+  }
+  /* .nav-logo-title h2 {
+    margin-right: 20px;
+  } */
+  .nav-logo-title {
+    display: flex;
+    gap: 10px;
+  }
+  .nav-content {
+    display: none;
+  }
+  .nav-icon-small {
+    display: block;
+  }
+}
