@@ -250,3 +250,66 @@ select {
   margin-bottom: 100px;
 }
 /* Why Choose Us Style Section */
+.choose-title-content {
+  max-width: 55%;
+  margin: 0 auto;
+  text-align: center;
+}
+.choose-title {
+  color: #131318;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.choose-description {
+  color: rgba(19, 19, 24, 0.7);
+  font-size: 1.2rem;
+  line-height: 26px;
+}
+.choose-item1 {
+  width: 573px;
+  height: 284px;
+  border-radius: 16px;
+  border: 1px solid rgba(251, 181, 99, 0.2);
+  background: rgba(251, 181, 99, 0.05);
+  padding: 30px;
+}
+.choose-item-title {
+  color: #131318;
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.choose-item-description {
+  color: #5a5a5d;
+  font-size: 1rem;
+  line-height: 26px;
+}
+.choose-item2 {
+  width: 573px;
+  height: 284px;
+  border-radius: 16px;
+  border: 1px solid rgba(41, 206, 246, 0.2);
+  background: rgba(41, 206, 246, 0.05);
+  padding: 30px;
+}
+.choose-item3 {
+  width: 573px;
+  height: 284px;
+  border-radius: 16px;
+  border: 1px solid rgba(233, 68, 68, 0.2);
+  background: rgba(233, 68, 68, 0.05);
+  padding: 30px;
+  margin: 0 auto;
+}
+.choose-item-content {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 24px;
+  margin-top: 48px;
+}
+.choose-container {
+  margin-bottom: 100px;
+}
