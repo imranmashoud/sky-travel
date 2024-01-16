@@ -267,8 +267,8 @@ select {
   line-height: 26px;
 }
 .choose-item1 {
-  /* width: 573px;
-  height: 284px; */
+  /* width: 573px;*/
+  height: 284px;
   max-width: 80%;
   border-radius: 16px;
   border: 1px solid rgba(251, 181, 99, 0.2);
@@ -288,8 +288,8 @@ select {
   line-height: 26px;
 }
 .choose-item2 {
-  /* width: 573px;
-  height: 284px; */
+  /* width: 573px;*/
+  height: 284px;
   max-width: 80%;
   border-radius: 16px;
   border: 1px solid rgba(41, 206, 246, 0.2);
@@ -297,8 +297,8 @@ select {
   padding: 30px;
 }
 .choose-item3 {
-  /* width: 573px;
-  height: 284px; */
+  /* width: 573px;*/
+  height: 284px;
   max-width: 50%;
   border-radius: 16px;
   border: 1px solid rgba(233, 68, 68, 0.2);

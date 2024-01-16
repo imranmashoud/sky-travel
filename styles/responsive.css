@@ -162,14 +162,14 @@
     margin-bottom: 20px;
   }
   .perfect-content ul {
-    padding-left: 0;
+    padding-left: 15px;
   }
   .news-container {
     flex-direction: column;
     gap: 20px;
   }
   .news-content {
-    width: 90%;
+    width: 95%;
     padding: 30px 12px;
   }
   .news-img {
@@ -212,6 +212,7 @@
 
   .footer-container {
     width: 90%;
+    margin-bottom: 10px;
   }
   .footer-content {
     width: 100%;
