@@ -94,11 +94,12 @@ main {
 .banner-description {
   color: #fff;
   text-align: center;
-  line-height: 1.65px;
+  /* line-height: 1.65px; */
   margin-top: 40px;
   margin-bottom: 100px;
 }
-.option-content {
+/* .option-content  Made some Adjustment here */
+form {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.3);
   display: inline-flex;
@@ -131,4 +132,43 @@ select {
   border: none;
   color: white;
   font-weight: 700;
+}
+/* Popular style Section */
+.popular-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+.popular-title {
+  color: #131318;
+  font-size: 2.5rem;
+  font-weight: 800;
+  /* padding-bottom: 24px; */
+}
+.popular-description {
+  color: rgba(19, 19, 24, 0.7);
+  width: 575px;
+  line-height: 26px;
+  padding: 24px 0;
+}
+.popular-list {
+  color: rgba(19, 19, 24, 0.7);
+  width: 700px;
+  padding-left: 30px;
+  line-height: 26px;
+}
+.popular-list li {
+  padding: 16px 0;
+}
+.popular-btn {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 800;
+  width: 174px;
+  height: 52px;
+  border-radius: 8px;
+  background: #ff5400;
+  border: none;
 }

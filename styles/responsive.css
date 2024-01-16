@@ -28,4 +28,17 @@
   .nav-icon-small {
     display: block;
   }
+  .banner-title {
+    font-size: 1.35rem;
+    font-weight: 800;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  input {
+    width: 163px;
+  }
 }
