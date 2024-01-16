@@ -425,3 +425,25 @@ select {
   font-weight: 800;
   padding: 14px 275px 14px 170px;
 }
+.discount-offer {
+  border-radius: 16px;
+  background: #ff5400;
+  padding: 30px 30px 30px;
+  width: 30%;
+  text-align: center;
+  position: absolute;
+  bottom: 13%;
+  right: 0.9%;
+  transform: rotate(338deg);
+}
+.discount-title {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.discount-price {
+  color: #fff;
+  font-family: Mulish;
+  font-size: 2rem;
+  font-weight: 800;
+}
