@@ -196,4 +196,27 @@
   .perfect-container {
     margin-bottom: 20px;
   }
+  /* .footer-items img {
+    width: 28.724px;
+    height: 33.516px;
+  } */
+  /* .footer-items .nav-title {
+    font-size: 1.3rem;
+    width: 300px;
+  }
+   */
+  footer {
+    margin-top: 50px;
+    padding: 60px 0;
+  }
+
+  .footer-container {
+    width: 90%;
+  }
+  .footer-content {
+    width: 100%;
+  }
+  .news-container {
+    margin-bottom: 20px;
+  }
 }
