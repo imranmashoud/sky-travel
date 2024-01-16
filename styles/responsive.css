@@ -128,4 +128,40 @@
   .destination-container {
     margin-bottom: 20px;
   }
+  .perfect-container {
+    flex-direction: column;
+  }
+  .popular-content {
+    width: 100%;
+  }
+  .perfect-video {
+    width: 100%;
+  }
+  .perfect-title {
+    width: 248px;
+    color: #131318;
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 30px;
+  }
+  .perfect-description {
+    width: 280px;
+    color: rgba(19, 19, 24, 0.7);
+    font-size: 14px;
+    line-height: 15px; /* 171.429% */
+  }
+  .perfect-content ul li {
+    width: 250px;
+    color: #131318;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 15px; /* 171.429% */
+    padding-top: 10px;
+  }
+  .choose-container {
+    margin-bottom: 20px;
+  }
+  .perfect-content ul {
+    padding-left: 0;
+  }
 }
