@@ -41,4 +41,30 @@
   input {
     width: 163px;
   }
+  .popular-container {
+    flex-direction: column;
+    gap: 25px;
+  }
+  .popular-title {
+    font-size: 1.25rem;
+  }
+  .popular-description {
+    color: rgba(19, 19, 24, 0.7);
+    font-size: 14px;
+  }
+  /* .popular-destination-img {
+    max-width: 100%;
+  } */
+  .popular-destination-img img {
+    width: 100%;
+  }
+  .popular-content {
+    width: 300px;
+  }
+  .popular-list {
+    width: 250px;
+  }
+  .banner-container {
+    margin-bottom: 20px;
+  }
 }

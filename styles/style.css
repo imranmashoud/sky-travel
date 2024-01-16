@@ -149,7 +149,7 @@ select {
 }
 .popular-description {
   color: rgba(19, 19, 24, 0.7);
-  width: 575px;
+  /* width: 575px; */
   line-height: 26px;
   padding: 24px 0;
 }
@@ -160,7 +160,7 @@ select {
   line-height: 26px;
 }
 .popular-list li {
-  padding: 16px 0;
+  padding-left: 16px;
 }
 .popular-btn {
   color: #fff;
