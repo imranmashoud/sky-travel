@@ -267,8 +267,9 @@ select {
   line-height: 26px;
 }
 .choose-item1 {
-  width: 573px;
-  height: 284px;
+  /* width: 573px;
+  height: 284px; */
+  max-width: 40%;
   border-radius: 16px;
   border: 1px solid rgba(251, 181, 99, 0.2);
   background: rgba(251, 181, 99, 0.05);
@@ -287,16 +288,18 @@ select {
   line-height: 26px;
 }
 .choose-item2 {
-  width: 573px;
-  height: 284px;
+  /* width: 573px;
+  height: 284px; */
+  max-width: 40%;
   border-radius: 16px;
   border: 1px solid rgba(41, 206, 246, 0.2);
   background: rgba(41, 206, 246, 0.05);
   padding: 30px;
 }
 .choose-item3 {
-  width: 573px;
-  height: 284px;
+  /* width: 573px;
+  height: 284px; */
+  max-width: 40%;
   border-radius: 16px;
   border: 1px solid rgba(233, 68, 68, 0.2);
   background: rgba(233, 68, 68, 0.05);

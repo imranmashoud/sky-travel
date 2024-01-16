@@ -100,4 +100,32 @@
   .popular-container {
     margin-bottom: 20px;
   }
+
+  .choose-item-content {
+    flex-direction: column;
+  }
+  .choose-title-content {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  .choose-item-title {
+    color: #131318;
+    font-size: 1.2rem;
+    font-weight: 800;
+  }
+  /* .choose-item-title p {
+    padding: 0px;
+  } */
+  .choose-item-description {
+    color: rgba(19, 19, 24, 0.7);
+    /* width: 270px; */
+    font-size: 14px;
+    line-height: 24px; /* 171.429% */
+  }
+  .why-item {
+    max-width: 100%;
+  }
+  .destination-container {
+    margin-bottom: 20px;
+  }
 }
