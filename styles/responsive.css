@@ -164,4 +164,36 @@
   .perfect-content ul {
     padding-left: 0;
   }
+  .news-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .news-content {
+    width: 90%;
+    padding: 30px 12px;
+  }
+  .news-img {
+    width: 100%;
+  }
+  .discount-title {
+    font-size: 1rem;
+  }
+  .discount-price {
+    font-size: 1rem;
+  }
+  .discount-offer {
+    bottom: 17%;
+    width: 50%;
+    padding: 4px 4px 4px;
+  }
+  .news-info .info-input {
+    padding: 0;
+  }
+  .news-info .news-btn {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .perfect-container {
+    margin-bottom: 20px;
+  }
 }
